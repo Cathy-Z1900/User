@@ -10,10 +10,6 @@ The data used in the project is from e-commerce public datasets, inlcuding,<br>
 
 The model is based on transformer architecture (multi-head self-attention mechanism) to learn user action representation.<br>
 
-<p float="left">
-    <img src="https://github.com/Cathy-Z1900/My_Portfolio_Website/blob/main/images/transformerall.jpg" width="250"/> <img src="https://github.com/Cathy-Z1900/My_Portfolio_Website/blob/main/images/position_encode.jpg" width="400"/></center>
-</p>
-
 **3. Data visualization** <br>
 Tsne: User activity features dimension reduction<br>
     <img src="https://github.com/Cathy-Z1900/My_Portfolio_Website/blob/main/images/TSE_dynamic.jpeg" width="400"/>
